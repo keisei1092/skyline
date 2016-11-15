@@ -1,3 +1,3 @@
 # skyline
 
-single page text editor.
+single page text editor. http://skyline.miraitoarumachi.com/
