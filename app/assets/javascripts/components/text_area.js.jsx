@@ -1,18 +1,15 @@
 var TextArea = React.createClass({
   render: function() {
     return (
-      <textarea className="main-textarea" value={this.value}>
-      </textarea>
+      <textarea className="main-textarea"></textarea>
     );
   }
 });
 
-var ConfigButton = React.createClass({
+var ConfigTextArea = React.createClass({
   render: function() {
     return (
-      <div className="config-button">
-        <i className="fa fa-wrench fa-lg"></i>
-      </div>
+      <textarea className="config-textarea"></textarea>
     )
   }
 })
